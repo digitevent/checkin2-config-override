@@ -1,1 +1,1 @@
-api-preprod.digitevent.com
+api-test.digitevent.com
