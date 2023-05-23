@@ -18,7 +18,6 @@
       </description>
       <pubDate>Tue, 23 May 2023 15:00:11 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.digitevent.checkin2app" sparkle:version="1.1.11" sparkle:os="android" /> 
-      <enclosure url="https://apps.apple.com/us/app/digitevent-check-in/id6447364824" sparkle:version="1.1.11" sparkle:os="ios" /> 
     </item>
   </channel>
 </rss>
