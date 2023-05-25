@@ -1,7 +1,7 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.1.14",
+            "minAppVersion": "1.1.13",
             "releaseNotes": {
                 "en": "- Added new feature\n- Fixed some bugs",
                 "fr": "- Ajout d'une nouvelle fonctionnalité\n- Correction de quelques bugs",
@@ -11,7 +11,7 @@
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.14",
+            "minAppVersion": "1.1.13",
             "releaseNotes": {
                 "en": "- Added new feature\n- Fixed some bugs",
                 "fr": "- Ajout d'une nouvelle fonctionnalité\n- Correction de quelques bugs",
