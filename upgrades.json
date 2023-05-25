@@ -1,22 +1,22 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.1.13",
+            "minAppVersion": "1.1.14",
             "releaseNotes": {
-                "en": "- Added new feature\n- Fixed some bugs",
-                "fr": "- Ajout d'une nouvelle fonctionnalité\n- Correction de quelques bugs",
-                "pl": "- Dodano nową funkcję\n- Naprawiono kilka błędów",
-                "pt": "- Adicionado novo recurso\n- Corrigido alguns bugs"
+                "en": "- Fixed upgrade requirements",
+                "fr": "- Fixed upgrade requirements",
+                "pl": "- Fixed upgrade requirements",
+                "pt": "- Fixed upgrade requirements"
             },
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.13",
+            "minAppVersion": "1.1.14",
             "releaseNotes": {
-                "en": "- Added new feature\n- Fixed some bugs",
-                "fr": "- Ajout d'une nouvelle fonctionnalité\n- Correction de quelques bugs",
-                "pl": "- Dodano nową funkcję\n- Naprawiono kilka błędów",
-                "pt": "- Adicionado novo recurso\n- Corrigido alguns bugs"
+                "en": "- Fixed upgrade requirements",
+                "fr": "- Fixed upgrade requirements",
+                "pl": "- Fixed upgrade requirements",
+                "pt": "- Fixed upgrade requirements"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
