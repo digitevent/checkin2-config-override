@@ -1,7 +1,7 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.1.19",
+            "minAppVersion": "1.1.20",
             "releaseNotes": {
                 "en": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
                 "fr": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
@@ -11,12 +11,12 @@
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.16",
+            "minAppVersion": "1.1.20",
             "releaseNotes": {
-                "en": "- Fixed upgrade requirements",
-                "fr": "- Fixed upgrade requirements",
-                "pl": "- Fixed upgrade requirements",
-                "pt": "- Fixed upgrade requirements"
+                "en": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
+                "fr": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
+                "pl": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
+                "pt": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
