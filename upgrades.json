@@ -11,7 +11,7 @@
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.23",
+            "minAppVersion": "1.1.24",
             "releaseNotes": {
                 "en": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
                 "fr": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
