@@ -1,9 +1,9 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.1.33",
+            "minAppVersion": "1.1.40",
             "releaseNotes": {
-                "en": "- faster and more reliable laser scanning",
+                "en": "- faster and more reliable",
                 "fr": "- faster and more reliable laser scanning",
                 "pl": "- faster and more reliable laser scanning",
                 "pt": "- faster and more reliable laser scanning"
@@ -11,7 +11,7 @@
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.30",
+            "minAppVersion": "1.1.34",
             "releaseNotes": {
                 "en": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
                 "fr": "- improve responsiveness of the UI on large events\n- improve search speed on large number of guests",
