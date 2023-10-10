@@ -1,12 +1,12 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.2.11",
+            "minAppVersion": "1.2.13",
             "releaseNotes": {
-                "en": "- more reliable, better error correction",
-                "fr": "- plus fiable, meilleure correction d'erreurs",
-                "pl": "- bardziej niezawodny, lepsza korekcja błędów",
-                "pt": "- mais confiável, melhor correção de erros"
+                "en": "- fix missing signatures",
+                "fr": "- correction de la signature manquante",
+                "pl": "- naprawa brakujących podpisów",
+                "pt": "- assinaturas faltantes corrigidas"
             },
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
