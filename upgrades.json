@@ -11,12 +11,12 @@
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.1.41",
+            "minAppVersion": "1.2.14",
             "releaseNotes": {
-                "en": "- more reliable, better error correction",
-                "fr": "- plus fiable, meilleure correction d'erreurs",
-                "pl": "- bardziej niezawodny, lepsza korekcja błędów",
-                "pt": "- mais confiável, melhor correção de erros"
+                "en": "- fix missing signatures",
+                "fr": "- correction de la signature manquante",
+                "pl": "- naprawa brakujących podpisów",
+                "pt": "- assinaturas faltantes corrigidas"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
