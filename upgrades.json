@@ -1,22 +1,22 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.2.13",
+            "minAppVersion": "1.2.15",
             "releaseNotes": {
-                "en": "- fix missing signatures",
-                "fr": "- correction de la signature manquante",
-                "pl": "- naprawa brakujących podpisów",
-                "pt": "- assinaturas faltantes corrigidas"
+                "en": "- improve stability & minor fixes",
+                "fr": "- amélioration de la stabilité et corrections mineures",
+                "pl": "- poprawa stabilności i drobne poprawki",
+                "pt": "- melhoria da estabilidade e correções menores"
             },
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.2.14",
+            "minAppVersion": "1.2.15",
             "releaseNotes": {
-                "en": "- fix missing signatures",
-                "fr": "- correction de la signature manquante",
-                "pl": "- naprawa brakujących podpisów",
-                "pt": "- assinaturas faltantes corrigidas"
+                "en": "- improve stability & minor fixes",
+                "fr": "- amélioration de la stabilité et corrections mineures",
+                "pl": "- poprawa stabilności i drobne poprawki",
+                "pt": "- melhoria da estabilidade e correções menores"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
