@@ -1,22 +1,22 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.2.15",
+            "minAppVersion": "1.3.5",
             "releaseNotes": {
-                "en": "- improve stability & minor fixes",
-                "fr": "- amélioration de la stabilité et corrections mineures",
-                "pl": "- poprawa stabilności i drobne poprawki",
-                "pt": "- melhoria da estabilidade e correções menores"
+                "en": "- fixed sync gap errors\n- better error correction\n- improved stability",
+                "fr": "- corrigé les avertissements de décalage\n- meilleure correction des erreurs\n- stabilité améliorée",
+                "pl": "- naprawione ostrzeżenia o luce synchronizacji\n- lepsza korekta błędów\n- poprawiona stabilność",
+                "pt": "- corrigido erro de sincronização de convidados\n- melhor correção de erros\n- estabilidade melhorada"
             },
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.2.15",
+            "minAppVersion": "1.3.5",
             "releaseNotes": {
-                "en": "- improve stability & minor fixes",
-                "fr": "- amélioration de la stabilité et corrections mineures",
-                "pl": "- poprawa stabilności i drobne poprawki",
-                "pt": "- melhoria da estabilidade e correções menores"
+                "en": "- fixed sync gap errors\n- better error correction\n- improved stability",
+                "fr": "- corrigé les avertissements de décalage\n- meilleure correction des erreurs\n- stabilité améliorée",
+                "pl": "- naprawione ostrzeżenia o luce synchronizacji\n- lepsza korekta błędów\n- poprawiona stabilność",
+                "pt": "- corrigido erro de sincronização de convidados\n- melhor correção de erros\n- estabilidade melhorada"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
