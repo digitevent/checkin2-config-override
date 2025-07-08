@@ -1,22 +1,22 @@
 {
     "platforms": {
         "android": {
-            "minAppVersion": "1.5.3",
+            "minAppVersion": "1.5.14",
             "releaseNotes": {
-                "en": "- improved error handling",
-                "fr": "- amélioration de la gestion des erreurs",
-                "pl": "- poprawiona obsługa błędów",
-                "pt": "- melhorias na gestão de erros"
+                "en": "- performance improvements\n- improved user experience (error display, checkpoint search, etc.)",
+                "fr": "- amélioration des performances\n- amélioration de l'expérience utilisateur (affichage des erreurs, recherche des points de contrôles...)",
+                "pl": "- poprawa wydajności\n- poprawa doświadczenia użytkownika (wyświetlanie błędów, wyszukiwanie punktów kontrolnych itp.)",
+                "pt": "- melhorias de desempenho\n- melhoria da experiência do usuário (exibição de erros, busca de pontos de controle, etc.)"
             },
             "storeLink": "https://play.google.com/store/apps/details?id=com.digitevent.checkin2app"
         },
         "ios": {
-            "minAppVersion": "1.5.3",
+            "minAppVersion": "1.5.14",
             "releaseNotes": {
-                "en": "- improved error handling",
-                "fr": "- amélioration de la gestion des erreurs",
-                "pl": "- poprawiona obsługa błędów",
-                "pt": "- melhorias na gestão de erros"
+                "en": "- performance improvements\n- improved user experience (error display, checkpoint search, etc.)",
+                "fr": "- amélioration des performances\n- amélioration de l'expérience utilisateur (affichage des erreurs, recherche des points de contrôles...)",
+                "pl": "- poprawa wydajności\n- poprawa doświadczenia użytkownika (wyświetlanie błędów, wyszukiwanie punktów kontrolnych itp.)",
+                "pt": "- melhorias de desempenho\n- melhoria da experiência do usuário (exibição de erros, busca de pontos de controle, etc.)"
             },
             "storeLink": "itms-apps://apps.apple.com/us/app/digitevent-check-in/id6447364824"
         }
